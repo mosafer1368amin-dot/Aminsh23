@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Bypass</string>
+    <string name="app_name_fa">شکن هوشمند</string>
+    <string name="connection_status_disconnected">Disconnected</string>
+    <string name="connection_status_connecting">Connecting...</string>
+    <string name="connection_status_connected">Connected &amp; Secure</string>
+    <string name="connection_status_fa_disconnected">قطع شده</string>
+    <string name="connection_status_fa_connecting">در حال اتصال...</string>
+    <string name="connection_status_fa_connected">متصل و ایمن</string>
+</resources>
